@@ -1,5 +1,8 @@
 ### Hi there 👋
+<h1>Github Stats</h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rojhon&show_icons=true&theme=radical)
+
+<h1>Languages</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rojhon&layout=compact&theme=radical)
 
 <!--
